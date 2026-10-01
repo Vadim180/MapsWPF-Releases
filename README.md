@@ -6,7 +6,7 @@
 
 ## Завантаження
 
-[Завантажити інсталятор для Windows x64](https://github.com/Vadim180/MapsWPF-Releases/releases/latest/download/Vadim180.MapsWPF-win-Setup.exe)
+[Завантажити програму](https://github.com/Vadim180/MapsWPF-Releases/releases/latest/download/Vadim180.MapsWPF-win-Setup.exe)
 
 [Останній реліз та опис змін](https://github.com/Vadim180/MapsWPF-Releases/releases/latest) · [Усі версії](https://github.com/Vadim180/MapsWPF-Releases/releases)
 
